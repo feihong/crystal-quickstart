@@ -7,6 +7,12 @@
                            libgmp-dev libssl-dev libxml2-dev
     sudo snap install crystal --classic
 
+## Commands
+
+Build and run program:
+
+    crystal hello.cr
+
 ## Links
 
 - [Install on Ubuntu](https://crystal-lang.org/install/on_ubuntu/)
